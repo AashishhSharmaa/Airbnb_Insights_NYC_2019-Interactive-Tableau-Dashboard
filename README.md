@@ -10,7 +10,7 @@ Developing an interactive Tableau dashboard presents the challenge of translatin
 
 To meet this challenge, the focus is on designing an intuitive interface with interactive elements, filters, and visualizations. The dashboard should empower users to delve into different facets of Airbnb activity, such as popular neighborhoods, property types, and average nightly prices. The goal is to create a user-friendly environment that fosters exploration, storytelling, and a deeper understanding of the Airbnb landscape in New York City during the specified 2019 timeframe. Success in this challenge lies in the ability to transform complex data into a visually compelling and informative format, facilitating a meaningful exploration of the dynamics within the Airbnb ecosystem.
 
-## Solution Summar
+## Solution Summary
 
 Having addressed the challenge of developing an interactive Tableau dashboard for the 2019 Airbnb dataset in New York City, the solution involves a systematic approach to data preparation, visualization design, and user interaction.
 
@@ -33,4 +33,27 @@ Having addressed the challenge of developing an interactive Tableau dashboard fo
 5. **Storytelling Elements:**
    - Constructed a compelling narrative within the dashboard using annotations and captions, guiding users through crucial insights and findings.
    - Included a title and summary to provide context and underscore significant trends, fostering a deeper understanding of the Airbnb landscape in New York City during the specified 2019 timeframe.
+## In action
+
+**Entire Home/Apartment in Brooklyn**
+![ENTIRE APARTMENT](https://github.com/AashishhSharmaa/Airbnb_Insights_NYC_2019-Tableau-Dashboard/assets/152653168/9b67780e-5845-42cf-a150-a3270236aab6)
+
+**Private Rooms in Queens**
+![Private Rooms](https://github.com/AashishhSharmaa/Airbnb_Insights_NYC_2019-Tableau-Dashboard/assets/152653168/7179fb44-e847-40df-bca6-1b31053f48a6)
+
+**Shared Rooms in Staten Island**
+![Shared Room](https://github.com/AashishhSharmaa/Airbnb_Insights_NYC_2019-Tableau-Dashboard/assets/152653168/fe90814a-ee9a-4bc4-816e-d7e040657f43)
+
+## Skills Gained
+
+1. **Data Preparation**
+2. **Data Analysis**
+3. **Tableau Proficiency**
+4. **Visualization Design**
+5. **User Interaction**
+6. **Storytelling with Data**
+7. **Spatial Analysis**
+8. **Feedback Incorporation**
+9. **Project Management**
+10. **Communication Skills**
 
